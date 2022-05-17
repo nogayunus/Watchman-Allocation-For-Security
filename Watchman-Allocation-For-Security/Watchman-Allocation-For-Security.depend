@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651670120 source:c:\users\yunus\onedrive\masaüstü\projeler\c projects\watchman-allocation-for-security\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+
